@@ -7,8 +7,8 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 ### **Closures**
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
-| 1 | [Create Hello World Function](day-01-create-hello-world/) | Easy | ❌ Not Started | Higher-order functions, closures |
-| 2 | [Counter](day-02-counter/) | Easy | ❌ Not Started | Closures, state management |
+| 1 | [Create Hello World Function](day-01-create-hello-world/) | Easy | ✅ Completed | Higher-order functions, closures |
+| 2 | [Counter](day-02-counter/) | Easy | 🔄 In Progress | Closures, state management |
 | 3 | [To Be Or Not To Be](day-03-to-be-or-not-to-be/) | Easy | ❌ Not Started | Type checking, function returns |
 | 4 | [Counter II](day-04-counter-ii/) | Easy | ❌ Not Started | Object methods, closures |
 
