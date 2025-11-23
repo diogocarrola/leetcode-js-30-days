@@ -24,8 +24,8 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 |-----|---------|------------|---------|-----------|
 | 8 | [Function Composition](day-08-function-composition/) | Easy | ✅ Completed | Function composition, reduceRight |
 | 9 | [Return Length of Arguments Passed](day-09-arguments-length/) | Easy | ✅ Completed | Rest parameters, arguments object |
-| 10 | [Allow One Function Call](day-10-allow-one-call/) | Easy | 🔄 In Progress | Function calls, once wrapper |
-| 11 | [Memoize](day-11-memoize/) | Medium | ❌ Not Started | Caching, memoization, Map |
+| 10 | [Allow One Function Call](day-10-allow-one-call/) | Easy | ✅ Completed | Function calls, once wrapper |
+| 11 | [Memoize](day-11-memoize/) | Medium | 🔄 In Progress | Caching, memoization, Map |
 
 ### **Promises and Time**
 | Day | Problem | Difficulty | Status | Concepts |
