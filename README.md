@@ -25,12 +25,12 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | 8 | [Function Composition](day-08-function-composition/) | Easy | ✅ Completed | Function composition, reduceRight |
 | 9 | [Return Length of Arguments Passed](day-09-arguments-length/) | Easy | ✅ Completed | Rest parameters, arguments object |
 | 10 | [Allow One Function Call](day-10-allow-one-call/) | Easy | ✅ Completed | Function calls, once wrapper |
-| 11 | [Memoize](day-11-memoize/) | Medium | 🔄 In Progress | Caching, memoization, Map |
+| 11 | [Memoize](day-11-memoize/) | Medium | ✅ Completed | Caching, memoization, Map |
 
 ### **Promises and Time**
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
-| 12 | [Add Two Promises](day-12-add-two-promises/) | Easy | ❌ Not Started | Promise.all(), async/await |
+| 12 | [Add Two Promises](day-12-add-two-promises/) | Easy | 🔄 In Progress | Promise.all(), async/await |
 | 13 | [Sleep](day-13-sleep/) | Easy | ❌ Not Started | setTimeout, Promise constructor |
 | 14 | [Timeout Cancellation](day-14-timeout-cancellation/) | Easy | ❌ Not Started | clearTimeout, cancellation |
 | 15 | [Interval Cancellation](day-15-interval-cancellation/) | Easy | ❌ Not Started | setInterval, clearInterval |
