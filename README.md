@@ -32,10 +32,10 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 |-----|---------|------------|---------|-----------|
 | 12 | [Add Two Promises](day-12-add-two-promises/) | Easy | ✅ Completed | Promise.all(), async/await |
 | 13 | [Sleep](day-13-sleep/) | Easy | ✅ Completed | setTimeout, Promise constructor |
-| 14 | [Timeout Cancellation](day-14-timeout-cancellation/) | Easy | 🔄 In Progress | clearTimeout, cancellation |
-| 15 | [Interval Cancellation](day-15-interval-cancellation/) | Easy | ❌ Not Started | setInterval, clearInterval |
-| 16 | [Promise Time Limit](day-16-promise-time-limit/) | Medium | ❌ Not Started | Promise.race(), timeout |
-| 17 | [Cache With Time Limit](day-17-cache-time-limit/) | Medium | ❌ Not Started | Time-based caching, Map |
+| 14 | [Timeout Cancellation](day-14-timeout-cancellation/) | Easy | ✅ Completed | clearTimeout, cancellation |
+| 15 | [Interval Cancellation](day-15-interval-cancellation/) | Easy | ✅ Completed | setInterval, clearInterval |
+| 16 | [Promise Time Limit](day-16-promise-time-limit/) | Medium | ✅ Completed | Promise.race(), timeout |
+| 17 | [Cache With Time Limit](day-17-cache-time-limit/) | Medium | 🔄 In Progress | Time-based caching, Map |
 | 18 | [Debounce](day-18-debounce/) | Medium | ❌ Not Started | Debouncing, setTimeout |
 | 19 | [Execute Asynchronous Functions in Parallel](day-19-async-parallel/) | Medium | ❌ Not Started | Promise.all(), error handling |
 
