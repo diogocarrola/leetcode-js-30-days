@@ -35,15 +35,15 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | 14 | [Timeout Cancellation](day-14-timeout-cancellation/) | Easy | ✅ Completed | clearTimeout, cancellation |
 | 15 | [Interval Cancellation](day-15-interval-cancellation/) | Easy | ✅ Completed | setInterval, clearInterval |
 | 16 | [Promise Time Limit](day-16-promise-time-limit/) | Medium | ✅ Completed | Promise.race(), timeout |
-| 17 | [Cache With Time Limit](day-17-cache-time-limit/) | Medium | 🔄 In Progress | Time-based caching, Map |
-| 18 | [Debounce](day-18-debounce/) | Medium | ❌ Not Started | Debouncing, setTimeout |
-| 19 | [Execute Asynchronous Functions in Parallel](day-19-async-parallel/) | Medium | ❌ Not Started | Promise.all(), error handling |
+| 17 | [Cache With Time Limit](day-17-cache-time-limit/) | Medium | ✅ Completed | Time-based caching, Map |
+| 18 | [Debounce](day-18-debounce/) | Medium | ✅ Completed | Debouncing, setTimeout |
+| 19 | [Execute Asynchronous Functions in Parallel](day-19-async-parallel/) | Medium | ✅ Completed | Promise.all(), error handling |
 
 ### **JSON and Array Methods**
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
-| 20 | [Is Object Empty](day-20-is-object-empty/) | Easy | ❌ Not Started | Object inspection, keys |
-| 21 | [Chunk Array](day-21-chunk-array/) | Easy | ❌ Not Started | Array chunking, slicing |
+| 20 | [Is Object Empty](day-20-is-object-empty/) | Easy | ✅ Completed | Object inspection, keys |
+| 21 | [Chunk Array](day-21-chunk-array/) | Easy | 🔄 In Progress | Array chunking, slicing |
 | 22 | [Array Prototype Last](day-22-array-last/) | Easy | ❌ Not Started | Array methods, prototypes |
 | 23 | [Group By](day-23-group-by/) | Medium | ❌ Not Started | Array grouping, reduce |
 | 24 | [Sort By](day-24-sort-by/) | Easy | ❌ Not Started | Custom sorting, comparators |
