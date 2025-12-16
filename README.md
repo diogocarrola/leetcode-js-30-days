@@ -43,8 +43,8 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
 | 20 | [Is Object Empty](day-20-is-object-empty/) | Easy | ✅ Completed | Object inspection, keys |
-| 21 | [Chunk Array](day-21-chunk-array/) | Easy | 🔄 In Progress | Array chunking, slicing |
-| 22 | [Array Prototype Last](day-22-array-last/) | Easy | ❌ Not Started | Array methods, prototypes |
+| 21 | [Chunk Array](day-21-chunk-array/) | Easy | ✅ Completed | Array chunking, slicing |
+| 22 | [Array Prototype Last](day-22-array-last/) | Easy | 🔄 In Progress | Array methods, prototypes |
 | 23 | [Group By](day-23-group-by/) | Medium | ❌ Not Started | Array grouping, reduce |
 | 24 | [Sort By](day-24-sort-by/) | Easy | ❌ Not Started | Custom sorting, comparators |
 | 25 | [Join Two Arrays by ID](day-25-join-arrays/) | Medium | ❌ Not Started | Array merging, objects |
