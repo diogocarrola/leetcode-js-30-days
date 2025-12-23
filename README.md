@@ -46,10 +46,10 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | 21 | [Chunk Array](day-21-chunk-array/) | Easy | ✅ Completed | Array chunking, slicing |
 | 22 | [Array Prototype Last](day-22-array-last/) | Easy | ✅ Completed | Array methods, prototypes |
 | 23 | [Group By](day-23-group-by/) | Medium | ✅ Completed | Array grouping, reduce |
-| 24 | [Sort By](day-24-sort-by/) | Easy | 🔄 In Progress | Custom sorting, comparators |
-| 25 | [Join Two Arrays by ID](day-25-join-arrays/) | Medium | ❌ Not Started | Array merging, objects |
-| 26 | [Flatten Deeply Nested Array](day-26-flatten-array/) | Medium | ❌ Not Started | Recursion, array flattening |
-| 27 | [Compact Object](day-27-compact-object/) | Medium | ❌ Not Started | Object filtering, recursion |
+| 24 | [Sort By](day-24-sort-by/) | Easy | ✅ Completed | Custom sorting, comparators |
+| 25 | [Join Two Arrays by ID](day-25-join-arrays/) | Medium | ✅ Completed | Array merging, objects |
+| 26 | [Flatten Deeply Nested Array](day-26-flatten-array/) | Medium | ✅ Completed | Recursion, array flattening |
+| 27 | [Compact Object](day-27-compact-object/) | Medium | 🔄 In Progress | Object filtering, recursion |
 
 ### **Classes**
 | Day | Problem | Difficulty | Status | Concepts |
