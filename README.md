@@ -49,11 +49,11 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | 24 | [Sort By](day-24-sort-by/) | Easy | ✅ Completed | Custom sorting, comparators |
 | 25 | [Join Two Arrays by ID](day-25-join-arrays/) | Medium | ✅ Completed | Array merging, objects |
 | 26 | [Flatten Deeply Nested Array](day-26-flatten-array/) | Medium | ✅ Completed | Recursion, array flattening |
-| 27 | [Compact Object](day-27-compact-object/) | Medium | 🔄 In Progress | Object filtering, recursion |
+| 27 | [Compact Object](day-27-compact-object/) | Medium | ✅ Completed | Object filtering, recursion |
 
 ### **Classes**
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
-| 28 | [Event Emitter](day-28-event-emitter/) | Medium | ❌ Not Started | Event handling, subscribers |
+| 28 | [Event Emitter](day-28-event-emitter/) | Medium | 🔄 In Progress | Event handling, subscribers |
 | 29 | [Array Wrapper](day-29-array-wrapper/) | Easy | ❌ Not Started | Classes, valueOf, toString |
 | 30 | [Calculator with Method Chaining](day-30-calculator-chaining/) | Easy | ❌ Not Started | Method chaining, classes |
