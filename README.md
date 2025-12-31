@@ -55,5 +55,5 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
 | 28 | [Event Emitter](day-28-event-emitter/) | Medium | ✅ Completed | Event handling, subscribers |
-| 29 | [Array Wrapper](day-29-array-wrapper/) | Easy | 🔄 In Progress | Classes, valueOf, toString |
-| 30 | [Calculator with Method Chaining](day-30-calculator-chaining/) | Easy | ❌ Not Started | Method chaining, classes |
+| 29 | [Array Wrapper](day-29-array-wrapper/) | Easy | ✅ Completed | Classes, valueOf, toString |
+| 30 | [Calculator with Method Chaining](day-30-calculator-chaining/) | Easy | ✅ Completed | Method chaining, classes |
